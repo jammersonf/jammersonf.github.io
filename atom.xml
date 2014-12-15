@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jammerson Fernando]]></title>
+  <link href="http://jammersonf.github.io/atom.xml" rel="self"/>
+  <link href="http://jammersonf.github.io/"/>
+  <updated>2014-12-14T21:38:27-03:00</updated>
+  <id>http://jammersonf.github.io/</id>
+  <author>
+    <name><![CDATA[Jammerson Fernando]]></name>
+    <email><![CDATA[jammersonf@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://jammersonf.github.io/blog/2014/12/14/hello-world/"/>
+    <updated>2014-12-14T21:25:27-03:00</updated>
+    <id>http://jammersonf.github.io/blog/2014/12/14/hello-world</id>
+    <content type="html"><![CDATA[<p>Boa noite rapaziada, meu nome é Jammerson Fernando e sou desenvolvedor php, mas ultimamente venho me dedicante também ao universo mobile(windows phone especificadamente). Depois de tanto fazer pesquisas em blogs nacionais e gringos durante os últimos 4 anos, eu resolvi fazer minha parte e compartilhar o conhecimento que aprendi nesse tempo.  Aqui eu compartilharei dicas, tutoriais e também mini-cursos(frameworks, criação de aplicativos, ferramentas), etc.</p>
+
+<p>Sintam-se a vontade para tirar dúvidas e/ou sugerir conteúdos para novas postagens, terei o maior prazer em responder.</p>
+]]></content>
+  </entry>
+  
+</feed>
