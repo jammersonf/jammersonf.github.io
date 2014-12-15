@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Laravel, | Jammerson Fernando]]></title>
-  <link href="http://jammersonf.github.io/blog/categories/laravel/atom.xml" rel="self"/>
-  <link href="http://jammersonf.github.io/"/>
-  <updated>2014-12-14T22:07:53-03:00</updated>
-  <id>http://jammersonf.github.io/</id>
+  <title><![CDATA[Category: Laravel, | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/laravel/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-12-14T22:20:35-03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Jammerson Fernando]]></name>
-    <email><![CDATA[jammersonf@gmail.com]]></email>
+    <name><![CDATA[Your Name]]></name>
+    
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://jammersonf.github.io/blog/2014/12/14/hello-world/"/>
+    <link href="http://yoursite.com/blog/2014/12/14/hello-world/"/>
     <updated>2014-12-14T21:25:27-03:00</updated>
-    <id>http://jammersonf.github.io/blog/2014/12/14/hello-world</id>
+    <id>http://yoursite.com/blog/2014/12/14/hello-world</id>
     <content type="html"><![CDATA[<p>Boa noite rapaziada, meu nome é Jammerson Fernando e sou desenvolvedor php, mas ultimamente venho me dedicante também ao universo mobile(windows phone especificadamente). Depois de tanto fazer pesquisas em blogs nacionais e gringos durante os últimos 4 anos, eu resolvi fazer minha parte e compartilhar o conhecimento que aprendi nesse tempo.  Aqui eu compartilharei dicas, tutoriais e também mini-cursos(frameworks, criação de aplicativos, ferramentas), etc.</p>
 
 <p>Sintam-se a vontade para tirar dúvidas e/ou sugerir conteúdos para novas postagens, terei o maior prazer em responder.</p>
