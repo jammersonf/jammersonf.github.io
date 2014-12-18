@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Hello | Jammerson Fernando]]></title>
-  <link href="http://jammersonf.github.io/blog/categories/hello/atom.xml" rel="self"/>
-  <link href="http://jammersonf.github.io/"/>
-  <updated>2014-12-14T23:51:55-03:00</updated>
-  <id>http://jammersonf.github.io/</id>
+  <title><![CDATA[Category: hello | Jammerson Fernando]]></title>
+  <link href="http://jammersonf.me/blog/categories/hello/atom.xml" rel="self"/>
+  <link href="http://jammersonf.me/"/>
+  <updated>2014-12-17T23:26:52-03:00</updated>
+  <id>http://jammersonf.me/</id>
   <author>
     <name><![CDATA[Jammerson Fernando]]></name>
     <email><![CDATA[jammersonf@gmail.com]]></email>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://jammersonf.github.io/blog/2014/12/14/hello-world/"/>
+    <link href="http://jammersonf.me/blog/hello-world/"/>
     <updated>2014-12-14T21:25:27-03:00</updated>
-    <id>http://jammersonf.github.io/blog/2014/12/14/hello-world</id>
-    <content type="html"><![CDATA[<p>Boa noite rapaziada, meu nome é Jammerson Fernando e sou desenvolvedor PHP, mas ultimamente venho me dedicando também ao universo mobile(Windows Phone especificadamente). Depois de tanto fazer pesquisas em blogs nacionais e gringos durante os últimos 4 anos, eu resolvi fazer minha parte e compartilhar o conhecimento que aprendi nesse tempo.  Aqui eu compartilharei dicas, tutoriais e também mini-cursos(frameworks, criação de aplicativos, ferramentas), etc.</p>
+    <id>http://jammersonf.me/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>Fala rapaziada, meu nome é Jammerson Fernando e sou desenvolvedor PHP, mas ultimamente venho me dedicando também ao universo mobile(Windows Phone especificadamente). Depois de tanto fazer pesquisas em blogs nacionais e gringos durante os últimos 4 anos, resolvi fazer minha parte e compartilhar o conhecimento que aprendi nesse tempo.  Aqui eu compartilharei dicas, tutoriais e também mini-cursos(frameworks, criação de aplicativos, ferramentas), etc.</p>
 
 <p>Sintam-se a vontade para tirar dúvidas e/ou sugerir conteúdos para novas postagens, terei o maior prazer em responder.</p>
 ]]></content>
