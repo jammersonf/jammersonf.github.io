@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: php | Jammerson Fernando]]></title>
-  <link href="http://jammersonf.me/blog/categories/php/atom.xml" rel="self"/>
+  <title><![CDATA[Category: por onde comecar | Jammerson Fernando]]></title>
+  <link href="http://jammersonf.me/blog/categories/por-onde-comecar/atom.xml" rel="self"/>
   <link href="http://jammersonf.me/"/>
   <updated>2015-01-07T21:57:12-03:00</updated>
   <id>http://jammersonf.me/</id>
@@ -50,20 +50,6 @@ Lembrando que essa não é estritamente a forma correta de iniciar os estudos, f
 <hr />
 
 <p>Lembrando que a chave de tudo é praticar, não adiante ler todos os livros, acessar todos os sites e não praticar o que foi aprendido. Vamos botar a mão na massa :D</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://jammersonf.me/blog/hello-world/"/>
-    <updated>2014-12-14T21:25:27-03:00</updated>
-    <id>http://jammersonf.me/blog/hello-world</id>
-    <content type="html"><![CDATA[<p>Fala rapaziada, meu nome é Jammerson Fernando e sou desenvolvedor PHP, mas ultimamente venho me dedicando também ao universo mobile(Windows Phone especificadamente). Depois de tanto fazer pesquisas em blogs nacionais e gringos durante os últimos 4 anos, resolvi fazer minha parte e compartilhar o conhecimento que aprendi nesse tempo.  Aqui eu compartilharei dicas, tutoriais e também mini-cursos(frameworks, criação de aplicativos, ferramentas), etc.</p>
-
-<!--more-->
-
-
-<p>Sintam-se a vontade para tirar dúvidas e/ou sugerir conteúdos para novas postagens, terei o maior prazer em responder.</p>
 ]]></content>
   </entry>
   
