@@ -4,7 +4,7 @@
   <title><![CDATA[Category: windows phone | Jammerson Fernando]]></title>
   <link href="http://jammersonf.me/blog/categories/windows-phone/atom.xml" rel="self"/>
   <link href="http://jammersonf.me/"/>
-  <updated>2015-01-07T22:00:21-03:00</updated>
+  <updated>2015-01-11T11:51:25-03:00</updated>
   <id>http://jammersonf.me/</id>
   <author>
     <name><![CDATA[Jammerson Fernando]]></name>
@@ -14,38 +14,47 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Pra começar...]]></title>
-    <link href="http://jammersonf.me/blog/pra-comecar-dot-dot-dot/"/>
+    <title type="html"><![CDATA[Começando os estudos]]></title>
+    <link href="http://jammersonf.me/blog/comecando-os-estudos/"/>
     <updated>2015-01-07T20:02:27-03:00</updated>
-    <id>http://jammersonf.me/blog/pra-comecar-dot-dot-dot</id>
+    <id>http://jammersonf.me/blog/comecando-os-estudos</id>
     <content type="html"><![CDATA[<p>Aproveitar a oportunidade para desejar a todos um 2015 de felicidades, realizações e muito aprendizado. Esse é o início de minhas postagens aqui no blog e quero começar os assuntos também do início, tentarei nortear o pessoal que tá iniciando na carreira ou estudando e quer ir além do que é passado nas aulas.
-Lembrando que essa não é estritamente a forma correta de iniciar os estudos, foi assim que eu começei, e é assim que compartilharei. Deixarei links de sites e também indicação de livros que ajudarão no aprendizado.</p>
+Lembrando que essa não é estritamente a forma correta de iniciar os estudos, foi assim que eu comecei, e é assim que compartilharei. Deixarei links de sites e também indicação de livros que ajudarão no aprendizado.</p>
 
 <!-- more -->
 
 
 <h2>PHP</h2>
 
+<p style="text-align:center;"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c1/PHP_Logo.png" alt="" /></p>
+
 <p>O PHP cresceu bastante nos últimos anos e devemos sempre está atento na <a href="http://php.net/manual/pt_BR/" title="PHP">documentação oficial</a> para vermos os changelogs e o que mudou em cada versão, bem como ver a sintaxe e/ou pesquisar funções da linguagem. Segue mais sites e livros:</p>
 
 <ul>
 <li><p><a href="http://br.phptherightway.com/">PHP do jeito certo</a> - Depois da documentação oficial esse é o que mais indico, a proposta do site é ser uma referência rápida e fácil de ler, introduzindo desenvolvedores às melhores práticas, renomados padrões de código e links para tutoriais competentes pela Web.</p></li>
-<li><p><a href="http://php-pb.net/">PHP-PB</a> - Esse é o site oficial da comunidade de desenvolvedores da PB e tem também bastante conteúdo interessante, divulgação de vagas para estágios, chamadas para eventos e hangouts onde o pessoal está sempre abordando temas e novidades que estão sendo discutidas em torno da linguagem. Vale a pena acompanhar também nas redes sociais, sempre crescemos mais quando estamos em comunidade, todos aprendem juntos.</p></li>
+<li><p><a href="http://php-pb.net/">PHP-PB</a> - Esse é o site oficial da comunidade de desenvolvedores da PB e tem também bastante conteúdo interessante, divulgação de vagas para estágios, chamadas para eventos e hangouts onde o pessoal está sempre abordando temas e novidades que estão sendo discutidas em torno da linguagem. Vale a pena acompanhar também nas redes sociais, sempre crescemos mais quando estamos em comunidade, todos aprendem juntos. Lembrando que quase todo estado tem seu grupo de php, gosto de acompanhar também o <a href="http://phpsp.org.br/">PHP-SP</a>.</p></li>
 <li><p><strong> PHP Programando com Orientação a Objetos(2ª Edição) </strong>- Sensacional esse livro do Pablo Dall&#8217;Oglio, foi ai onde entendi tudo sobre Orientação a Objetos e Design Patterns, livro quase que obrigatório em sua instante, leitura que vale muito a pena.</p></li>
 <li><p><strong> PHP Profissional </strong>- Livro bem prático e que complementa o conteúdo do livro anterior. Além de OO e Design Patterns, também é mostrado o PHPMailer, XML e uma pincelada em Webservices.</p></li>
 </ul>
 
 
+<p><br /><br /><br /></p>
+
 <h2>Windows Phone</h2>
+
+<p style="text-align:center;"><img src="http://img.over-blog-kiwi.com/0/02/92/66/201308/ob_2ce89d_windows-phone-8-logo-1-png.png" alt="" /></p>
 
 <p>O Sistema móvel da microsoft já é o 2º mais utilizado no Brasil e com crescimento em todo o mundo. Eu particularmente Já fui usuário de Android e iOS, mas foi o Windows Phone que mais me chamou a atenção, com a fluidez e rapidez com que trabalha. Para quem é desenvolvedor a história é ainda melhor, já que a plataforma .net é largamente utilizada e o visual studio é uma das melhores, se não a melhor IDE do mercado. Sem falar que podemos desenvolver aplicativos com C#, VB ou mesmo HTML5.</p>
 
 <ul>
 <li><p><a href="https://dev.windows.com/pt-br">Centro de desenvolvimento Windows(Phone)</a> - Site oficial da microsoft com vários tutoriais e até minicursos para criarmos a primeira aplicação na plataforma. Tem também como baixar exemplos prontos de aplicações, isso ajuda muito para descobrir e ver como funciona alguns componentes.</p></li>
 <li><p><a href="http://channel9.msdn.com/WindowsPhone">Channe19</a> - O site é em inglês, mas também tem muitas vídeo-aulas e minicursos.</p></li>
+<li><p><a href="http://ehrizo.wordpress.com/curso-windows-phone-gratuito/">Blog do Eduardo H. Rizo</a> - O Eduardo disponibilizou muitos tutoriais competentes para windows phone e o material é todo em português.</p></li>
 <li><p><a href="http://novatec.com.br/livros/windows-8/">Livro Desenvolvendo para Windows 8</a> - Ensina a criar do zero uma aplicação para Windows 8 e também Windows Phone 8, abrangendo o desktop, tablet e smartphones. É um ótimo livro, o Ricardo vai do básico ao avançado, com uma ótima abordagem prática e exemplos, facilitando muito o aprendizado.</p></li>
 </ul>
 
+
+<p><br /><br /><br /></p>
 
 <hr />
 
