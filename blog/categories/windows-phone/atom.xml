@@ -4,7 +4,7 @@
   <title><![CDATA[Category: windows phone | Jammerson Fernando]]></title>
   <link href="http://jammersonf.me/blog/categories/windows-phone/atom.xml" rel="self"/>
   <link href="http://jammersonf.me/"/>
-  <updated>2015-01-11T12:18:36-03:00</updated>
+  <updated>2015-01-12T18:42:50-03:00</updated>
   <id>http://jammersonf.me/</id>
   <author>
     <name><![CDATA[Jammerson Fernando]]></name>
@@ -33,6 +33,7 @@ Lembrando que essa não é estritamente a forma correta de iniciar os estudos, f
 <ul>
 <li><p><a href="http://br.phptherightway.com/">PHP do jeito certo</a> - Depois da documentação oficial esse é o que mais indico, a proposta do site é ser uma referência rápida e fácil de ler, introduzindo desenvolvedores às melhores práticas, renomados padrões de código e links para tutoriais competentes pela Web.</p></li>
 <li><p><a href="http://php-pb.net/">PHP-PB</a> - Esse é o site oficial da comunidade de desenvolvedores da PB e tem também bastante conteúdo interessante, divulgação de vagas para estágios, chamadas para eventos e hangouts onde o pessoal está sempre abordando temas e novidades que estão sendo discutidas em torno da linguagem. Vale a pena acompanhar também nas redes sociais, sempre crescemos mais quando estamos em comunidade, todos aprendem juntos. Lembrando que quase todo estado tem seu grupo de php, gosto de acompanhar também o <a href="http://phpsp.org.br/">PHP-SP</a>.</p></li>
+<li><p><a href="http://www.asemanaphp.com.br/">A semana: PHP</a> - Com a enorme quantia de informações que encontramos todos os dias na Internet é difícil acompanhar tudo, foi pensando nisso que o Elton Minetto criou a newsletter de php, onde envia todas as semanas uma lista de alguns posts interessantes, dicas de livros, eventos, oportunidades profissionais, etc. Quem quiser acessar as edições passadas, pode ver <a href="http://www.asemanaphp.com.br/edicoes/">nesse link</a>.</p></li>
 <li><p><strong> PHP Programando com Orientação a Objetos(2ª Edição) </strong>- Sensacional esse livro do Pablo Dall&#8217;Oglio, foi ai onde entendi tudo sobre Orientação a Objetos e Design Patterns, livro quase que obrigatório em sua instante, leitura que vale muito a pena.</p></li>
 <li><p><strong> PHP Profissional </strong>- Livro bem prático e que complementa o conteúdo do livro anterior. Além de OO e Design Patterns, também é mostrado o PHPMailer, XML e uma pincelada em Webservices.</p></li>
 </ul>
